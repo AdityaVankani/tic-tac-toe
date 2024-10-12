@@ -13,3 +13,6 @@ A responsive Tic-Tac-Toe game built with React.js, featuring a dark theme, a sco
 - Play against another human player or an AI opponent.
 - Score tracking for both players.
 - Ability to reset scores.
+
+## Play
+https://chr0n0track.web.app/
