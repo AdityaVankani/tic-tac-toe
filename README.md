@@ -15,4 +15,4 @@ A responsive Tic-Tac-Toe game built with React.js, featuring a dark theme, a sco
 - Ability to reset scores.
 
 ## Play
-https://chr0n0track.web.app/
+https://play-tic-tac-to.web.app/
